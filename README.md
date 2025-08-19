@@ -17,5 +17,5 @@ This project is an **Ecommerce Sales Dashboard** created using **Power BI**.
 
 ## How to Use
 1. Download the Excel datasets and Power BI file from this repo.  
-2. Open `Ecommerce_Sales_Dashboard.pbix` in Power BI Desktop.  
+2. Open in Power BI Desktop.  
 3. Explore the interactive dashboard.  
