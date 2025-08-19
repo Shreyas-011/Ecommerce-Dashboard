@@ -1,7 +1,7 @@
 # Ecommerce Sales Dashboard (Power BI)
 
 This project is an **Ecommerce Sales Dashboard** created using **Power BI**.  
- Used **two Excel datasets**, performed **data cleaning & transformation**, and built an **interactive dashboard** to visualize sales, profit, quantity, and customer insights.
+ Used **Excel datasets**, performed **data cleaning & transformation**, and built an **interactive dashboard** to visualize sales, profit, quantity, and customer insights.
 
 ## Tools Used
 - Power BI (for data cleaning, modeling, and visualization)  
